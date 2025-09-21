@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Hi everyone 👋  
-I go by **Sumaya**, short for Maya, and this is where I showcase what I build, tinker with, and push to the edge✨
+I go by **Maya**, short for Sumaya, and this is where I showcase what I build, tinker with, and push to the edge✨
 
 Not every door is worth knocking on. I choose the right ones.
 
